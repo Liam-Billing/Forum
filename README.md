@@ -41,23 +41,3 @@ Gå in i termenalen sendan cd .. om du är i en annan mapp sendan skriver du
 
 ## Kodstruktur
 
-project-root/
-├── backend/
-│ ├── package.json # Backendens beroenden och skript
-│ ├── server.js # Backendens startfil
-│ ├── routes/ # API-routes
-│ ├── database.db #SQLite-databas
-│  
-│  
-│  
-├── frontend/
-│ ├── package.json # Frontendens beroenden och skript
-│ ├── vite.config.js # Vite-konfiguration
-│ ├── src/
-│ │ ├── main.jsx # Frontendens startfil
-│ │ ├── pages/ # Sidor i applikationen, komponenter som har en route
-│ │ ├── context/ # Context API-hantering
-│ │ ├── styles/ # Globala och komponentbaserade css-filer, valfritt, går bra som vi har gjort tidigare.
-│ │ └── assets/ # Bilder
-├── README.md # Instruktioner för att starta applikationen
-└── .gitignore # Filer att ignorera i GitHub
