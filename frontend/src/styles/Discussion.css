@@ -1,0 +1,91 @@
+/* Styling för svar */
+.reply-list {
+    margin-top: 16px;
+    padding-left: 0;
+  }
+  
+  .reply-item {
+    background: #f9fafb;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 8px;
+    font-size: 14px;
+    border-left: 4px solid #007bff;
+    list-style: none;
+  }
+  
+  .reply-form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .reply-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    font-size: 14px;
+    resize: vertical;
+  }
+  
+  .reply-btn {
+    margin-top: 8px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .reply-btn:hover {
+    background-color: #0056b3;
+  }
+  .delete-reply-btn {
+    background-color: #dc3545;
+    color: white;
+    padding: 6px;
+    font-size: 12px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: background 0.3s;
+  }
+  
+  .delete-reply-btn:hover {
+    background-color: #c82333;
+  }
+  .delete-reply-btn {
+    background-color: #dc3545;
+    color: white;
+    padding: 6px;
+    font-size: 12px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: background 0.3s;
+  }
+  
+  .delete-reply-btn:hover {
+    background-color: #c82333;
+  }
+  .delete-discussion-btn {
+    background-color: #dc3545;
+    color: white;
+    padding: 6px 12px;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background 0.3s;
+  }
+  
+  .delete-discussion-btn:hover {
+    background-color: #c82333;
+  }
