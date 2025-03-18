@@ -39,5 +39,4 @@ Gå in i termenalen sendan cd .. om du är i en annan mapp sendan skriver du
 - cd frontend
 - npm run dev
 
-## Kodstruktur
 
