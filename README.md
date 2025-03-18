@@ -1,4 +1,4 @@
-## Forum-LB
+## Forum
 
 Det här är ett mycket lätt diskutionsforum som är upp byggt med React, Node.js med SQLite för att kunna hantera både trådar och kommentarer. Sedan kan man själv som användare lägga till nya trådar, kommentarer och man kan också redigera och ta bort trådar om man själv vill.
 
